@@ -38,25 +38,20 @@ A simple Python script with a graphical user interface (GUI) for organizing file
 
 1. **Select Folder**: Click the "Select Folder" button to choose the folder you want to organize.
 
-    ![Select Folder Button](<SCREENSHOT: Select Folder Button>)
+    ![Select Folder Button](screenshots/python_NsEqWangat.png)
+   
 
-2. **Organize Files**: Click the "Organize Files" button to start the organization process. The script will move files into respective folders based on their type.
+3. **Organize Files**: Click the "Organize Files" button to start the organization process. The script will move files into respective folders based on their type.
 
-    ![Organize Files Button](<SCREENSHOT: Organize Files Button>)
+    ![Organize Files Button](screenshots/python_vKBx3hCYGP.png)
 
-3. **Status Updates**: The GUI will display the selected folder path and the number of files present.
+4. **Status Updates**: The GUI will display the selected folder path and the number of files present.
 
-    ![Folder Path and File Count](<SCREENSHOT: Folder Path and File Count>)
+    ![Folder Path and File Count](screenshots/python_h3t0cND1op.png)
+    
+   ![Pre-organized folder](screenshots/Code_nhuQXKPwXl.png)
+   ![Post-organized folder](screenshots/explorer_rCAxieFFpz.png)
 
-## Screenshots
-
-### Main Interface
-
-    ![Main Interface](<SCREENSHOT: Main Interface>)
-
-### File Organization in Action
-
-    ![File Organization in Action](<SCREENSHOT: File Organization in Action>)
 
 ## File Types and Categories
 
