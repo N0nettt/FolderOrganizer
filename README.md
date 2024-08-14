@@ -73,10 +73,3 @@ A simple Python script with a graphical user interface (GUI) for organizing file
 
 Feel free to contribute to the project by submitting issues or pull requests. For significant changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or feedback, you can reach me at [your.email@example.com](mailto:your.email@example.com).
