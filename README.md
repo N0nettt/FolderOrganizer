@@ -1,4 +1,4 @@
-# File Organizer
+# Folder Organizer
 
 A simple Python script with a graphical user interface (GUI) for organizing files into different folders based on their types. The script uses `tkinter` for the GUI and `shutil` for file operations.
 
